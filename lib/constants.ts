@@ -14,6 +14,7 @@ export const SITE_CONFIG = {
     facebook: "https://facebook.com/",
     instagram: "https://instagram.com/",
   },
+  year: 2026,
 };
 
 export const NAVIGATION_LINKS = [
