@@ -289,11 +289,6 @@ export default async function PropertyPage({ params }: PropertyPageProps) {
                   Request to Book
                   <ArrowUpRight size={17} />
                 </Link>
-
-                <p className="mt-4 text-center text-xs leading-5 text-gray-500">
-                  This is a booking request demonstration. No payment will be
-                  collected.
-                </p>
               </div>
             </aside>
           </div>

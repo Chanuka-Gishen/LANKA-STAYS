@@ -108,15 +108,15 @@ export const properties: Property[] = [
     amenities: ["Free Wi-Fi", "Breakfast", "Garden", "Parking", "Fan"],
     images: [
       {
-        src: "https://drive.google.com/uc?export=view&id=I-CDAryJz5RjaGOth84AlXD61oDK6tl5",
+        src: "https://drive.google.com/uc?export=view&id=1I-CDAryJz5RjaGOth84AlXD61oDK6tl5",
         alt: "Traditional guesthouse exterior",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=Jm3XtEfPtMaqz2-qAwmDOwbvPCgJR48U",
+        src: "https://drive.google.com/uc?export=view&id=1Jm3XtEfPtMaqz2-qAwmDOwbvPCgJR48U",
         alt: "Guesthouse bedroom",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=rPkIbmvlICppa20Y36V8Fhmypi141i4v",
+        src: "https://drive.google.com/uc?export=view&id=1rPkIbmvlICppa20Y36V8Fhmypi141i4v",
         alt: "Guesthouse pool area",
       },
     ],
@@ -196,15 +196,15 @@ export const properties: Property[] = [
         alt: "Beachfront resort in Mirissa",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=9iJDrNRmS3BFQt-VwR7-wSfh_aMpfRUw",
+        src: "https://drive.google.com/uc?export=view&id=19iJDrNRmS3BFQt-VwR7-wSfh_aMpfRUw",
         alt: "Resort reception area",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=VWNWL6dxIDLdy7bgH1a6foXU2zJqyjdz",
+        src: "https://drive.google.com/uc?export=view&id=1VWNWL6dxIDLdy7bgH1a6foXU2zJqyjdz",
         alt: "Resort bar area",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=Near6jBGL6zszG4RgOB9jtR4n7wmL7DD",
+        src: "https://drive.google.com/uc?export=view&id=1Near6jBGL6zszG4RgOB9jtR4n7wmL7DD",
         alt: "Resort cabana bedroom",
       },
     ],
@@ -236,19 +236,19 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/uc?export=view&id=huvUkwjXJI0HbxikpxKdR1VRmgbTXp9B",
+        src: "https://drive.google.com/uc?export=view&id=1huvUkwjXJI0HbxikpxKdR1VRmgbTXp9B",
         alt: "Tropical guesthouse exterior",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=p7GomWAk9zvkq0-d6MEhzTTzTyCGAElb",
+        src: "https://drive.google.com/uc?export=view&id=1p7GomWAk9zvkq0-d6MEhzTTzTyCGAElb",
         alt: "Guesthouse bedroom",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=Dh7WOHabLfrtpJLrz8fmMDxn_-r4fvG1",
+        src: "https://drive.google.com/uc?export=view&id=1Dh7WOHabLfrtpJLrz8fmMDxn_-r4fvG1",
         alt: "Resort reception area",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=aZ83ezLJqIa2d7zaSWjGsOV20hwg42Iu",
+        src: "https://drive.google.com/uc?export=view&id=1aZ83ezLJqIa2d7zaSWjGsOV20hwg42Iu",
         alt: "Resort dining area",
       },
     ],
@@ -284,11 +284,11 @@ export const properties: Property[] = [
         alt: "Villa surrounded by tea plantations",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=LNvIv3kHS447ByyBSa4j8H1WHlInow96",
+        src: "https://drive.google.com/uc?export=view&id=1LNvIv3kHS447ByyBSa4j8H1WHlInow96",
         alt: "Cosy villa interior lobby",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=FcutTnFu4AmkvrfmxmspluB5_mN_qomt",
+        src: "https://drive.google.com/uc?export=view&id=1FcutTnFu4AmkvrfmxmspluB5_mN_qomt",
         alt: "Villa dining area",
       },
       {
@@ -328,11 +328,11 @@ export const properties: Property[] = [
         alt: "Villa surrounded by tea plantations",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=KNKIkagzlFSO7zMLYjcHm8iaWpsMoS5R",
+        src: "https://drive.google.com/uc?export=view&id=1KNKIkagzlFSO7zMLYjcHm8iaWpsMoS5R",
         alt: "Cosy villa interior lobby",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=uk6Lz1LD0p6gAGw7phqLg8Dbc1ytR5X0",
+        src: "https://drive.google.com/uc?export=view&id=1uk6Lz1LD0p6gAGw7phqLg8Dbc1ytR5X0",
         alt: "Villa dining area",
       },
     ],
