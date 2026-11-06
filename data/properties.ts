@@ -26,15 +26,15 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/file/d/1_5dMAcjeQtZbfPbc8AYxI0V3jqIaVrwr/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=1_5dMAcjeQtZbfPbc8AYxI0V3jqIaVrwr",
         alt: "Hotel Front",
       },
       {
-        src: "https://drive.google.com/file/d/1SV1_1rm1vyK7uEzw5uljz4hPvr94NCJb/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=1SV1_1rm1vyK7uEzw5uljz4hPvr94NCJb",
         alt: "Elegant Colombo hotel bedroom",
       },
       {
-        src: "https://drive.google.com/file/d/1Dy-zfTIEILC-jgKSevf5NtKr0WWZFCtH/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=1Dy-zfTIEILC-jgKSevf5NtKr0WWZFCtH",
         alt: "Hotel luxaury bedroom",
       },
     ],
@@ -66,23 +66,23 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/file/d/1s3mFMFNNRpLMnKYsi2zR0QjBUTctow45/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=s3mFMFNNRpLMnKYsi2zR0QjBUTctow45",
         alt: "Villa overlooking Kandy",
       },
       {
-        src: "https://drive.google.com/file/d/1OPJsIJCg8YgV4XvmkrXcwNPY9hqIYiBv/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=OPJsIJCg8YgV4XvmkrXcwNPY9hqIYiBv",
         alt: "Villa bedroom",
       },
       {
-        src: "https://drive.google.com/file/d/1YNdGtNus1enoRHgkA0XSpkwUDnTJVdyL/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=YNdGtNus1enoRHgkA0XSpkwUDnTJVdyL",
         alt: "Villa pool",
       },
       {
-        src: "https://drive.google.com/file/d/1OPJsIJCg8YgV4XvmkrXcwNPY9hqIYiBv/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=OPJsIJCg8YgV4XvmkrXcwNPY9hqIYiBv",
         alt: "Villa bedroom",
       },
       {
-        src: "https://drive.google.com/file/d/1s-pKk9G_rFKSLaftJmpMTikrsyHF1ITH/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=s-pKk9G_rFKSLaftJmpMTikrsyHF1ITH",
         alt: "Villa living room",
       },
     ],
@@ -108,15 +108,15 @@ export const properties: Property[] = [
     amenities: ["Free Wi-Fi", "Breakfast", "Garden", "Parking", "Fan"],
     images: [
       {
-        src: "https://drive.google.com/file/d/1I-CDAryJz5RjaGOth84AlXD61oDK6tl5/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=I-CDAryJz5RjaGOth84AlXD61oDK6tl5",
         alt: "Traditional guesthouse exterior",
       },
       {
-        src: "https://drive.google.com/file/d/1Jm3XtEfPtMaqz2-qAwmDOwbvPCgJR48U/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=Jm3XtEfPtMaqz2-qAwmDOwbvPCgJR48U",
         alt: "Guesthouse bedroom",
       },
       {
-        src: "https://drive.google.com/file/d/1rPkIbmvlICppa20Y36V8Fhmypi141i4v/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=rPkIbmvlICppa20Y36V8Fhmypi141i4v",
         alt: "Guesthouse pool area",
       },
     ],
@@ -148,19 +148,19 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/file/d/1ri0gQv1AR8j6GBGwCI-NTArb3k23s8At/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=ri0gQv1AR8j6GBGwCI-NTArb3k23s8At",
         alt: "Boutique hotel in Galle Fort",
       },
       {
-        src: "https://drive.google.com/file/d/15d5vUg7-ye6JbX20RUVTDEg0CzIEYxFN/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=5d5vUg7-ye6JbX20RUVTDEg0CzIEYxFN",
         alt: "Boutique hotel bedroom",
       },
       {
-        src: "https://drive.google.com/file/d/185qQ5tI9SR6O93l68ahk638QVeZ8Qq3B/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=85qQ5tI9SR6O93l68ahk638QVeZ8Qq3B",
         alt: "Hotel courtyard",
       },
       {
-        src: "https://drive.google.com/file/d/183Jl4h9xx3luSHLsQ6jeiy6FlR6EDe7P/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=83Jl4h9xx3luSHLsQ6jeiy6FlR6EDe7P",
         alt: "Hotel dinning area",
       },
     ],
@@ -192,19 +192,19 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/file/d/110gtmLRgZY9y6HyS7rdWIGSG2cuBPutv/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=110gtmLRgZY9y6HyS7rdWIGSG2cuBPutv",
         alt: "Beachfront resort in Mirissa",
       },
       {
-        src: "https://drive.google.com/file/d/19iJDrNRmS3BFQt-VwR7-wSfh_aMpfRUw/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=9iJDrNRmS3BFQt-VwR7-wSfh_aMpfRUw",
         alt: "Resort reception area",
       },
       {
-        src: "https://drive.google.com/file/d/1VWNWL6dxIDLdy7bgH1a6foXU2zJqyjdz/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=VWNWL6dxIDLdy7bgH1a6foXU2zJqyjdz",
         alt: "Resort bar area",
       },
       {
-        src: "https://drive.google.com/file/d/1Near6jBGL6zszG4RgOB9jtR4n7wmL7DD/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=Near6jBGL6zszG4RgOB9jtR4n7wmL7DD",
         alt: "Resort cabana bedroom",
       },
     ],
@@ -236,19 +236,19 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/file/d/1huvUkwjXJI0HbxikpxKdR1VRmgbTXp9B/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=huvUkwjXJI0HbxikpxKdR1VRmgbTXp9B",
         alt: "Tropical guesthouse exterior",
       },
       {
-        src: "https://drive.google.com/file/d/1p7GomWAk9zvkq0-d6MEhzTTzTyCGAElb/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=p7GomWAk9zvkq0-d6MEhzTTzTyCGAElb",
         alt: "Guesthouse bedroom",
       },
       {
-        src: "https://drive.google.com/file/d/1Dh7WOHabLfrtpJLrz8fmMDxn_-r4fvG1/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=Dh7WOHabLfrtpJLrz8fmMDxn_-r4fvG1",
         alt: "Resort reception area",
       },
       {
-        src: "https://drive.google.com/file/d/1aZ83ezLJqIa2d7zaSWjGsOV20hwg42Iu/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=aZ83ezLJqIa2d7zaSWjGsOV20hwg42Iu",
         alt: "Resort dining area",
       },
     ],
@@ -280,19 +280,19 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/file/d/1fxNUGukPU0KoBZ0iJkZt_2hUVP2p6HbH/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=fxNUGukPU0KoBZ0iJkZt_2hUVP2p6HbH",
         alt: "Villa surrounded by tea plantations",
       },
       {
-        src: "https://drive.google.com/file/d/1LNvIv3kHS447ByyBSa4j8H1WHlInow96/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=LNvIv3kHS447ByyBSa4j8H1WHlInow96",
         alt: "Cosy villa interior lobby",
       },
       {
-        src: "https://drive.google.com/file/d/1FcutTnFu4AmkvrfmxmspluB5_mN_qomt/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=FcutTnFu4AmkvrfmxmspluB5_mN_qomt",
         alt: "Villa dining area",
       },
       {
-        src: "https://drive.google.com/file/d/11iwu71Z55BRGd--MMKR8y43v1PX6orH9/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=1iwu71Z55BRGd--MMKR8y43v1PX6orH9",
         alt: "Villa pool area",
       },
     ],
@@ -324,15 +324,15 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/file/d/183OF6xBEKu3HoJc_j2T24gX3HHsZupuq/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=183OF6xBEKu3HoJc_j2T24gX3HHsZupuq",
         alt: "Villa surrounded by tea plantations",
       },
       {
-        src: "https://drive.google.com/file/d/1KNKIkagzlFSO7zMLYjcHm8iaWpsMoS5R/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=KNKIkagzlFSO7zMLYjcHm8iaWpsMoS5R",
         alt: "Cosy villa interior lobby",
       },
       {
-        src: "https://drive.google.com/file/d/1uk6Lz1LD0p6gAGw7phqLg8Dbc1ytR5X0/view?usp=drive_link",
+        src: "https://drive.google.com/uc?export=view&id=uk6Lz1LD0p6gAGw7phqLg8Dbc1ytR5X0",
         alt: "Villa dining area",
       },
     ],

@@ -17,13 +17,13 @@ export const destinations: Destination[] = [
     slug: "ella",
     name: "Ella",
     description: "Escape to breathtaking mountain landscapes.",
-    image: "/images/destinations/ella.jpg",
+    image: "/images/destinations/ella.webp",
   },
   {
     slug: "galle",
     name: "Galle",
     description: "Discover coastal charm and historic architecture.",
-    image: "/images/destinations/galle.jpg",
+    image: "/images/destinations/galle.webp",
   },
   {
     slug: "mirissa",
@@ -35,6 +35,6 @@ export const destinations: Destination[] = [
     slug: "nuwara-eliya",
     name: "Nuwara Eliya",
     description: "Relax among tea plantations and cool mountain air.",
-    image: "/images/destinations/nuwara-eliya.jpg",
+    image: "/images/destinations/nuwara-eliye.jpg",
   },
 ];
