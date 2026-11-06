@@ -44,7 +44,7 @@ export default function SearchBar() {
   return (
     <div className="rounded-2xl bg-white p-4 shadow-[0_15px_50px_rgba(0,0,0,0.14)] md:p-5">
       <div className="grid gap-3 md:grid-cols-[1.3fr_1fr_1fr_0.8fr_auto]">
-        <div className="flex items-center gap-3 rounded-xl border border-border px-3 py-3">
+        <div className="flex items-center gap-3 rounded-[12px] border border-border px-3 py-3">
           <MapPin size={20} className="shrink-0 text-accent" />
 
           <div className="min-w-0 flex-1">
@@ -72,7 +72,7 @@ export default function SearchBar() {
           </div>
         </div>
 
-        <div className="flex items-center gap-3 rounded-xl border border-border px-3 py-3">
+        <div className="flex items-center gap-3 rounded-[12px] border border-border px-3 py-3">
           <CalendarDays size={20} className="shrink-0 text-accent" />
 
           <div className="min-w-0 flex-1">
@@ -94,7 +94,7 @@ export default function SearchBar() {
           </div>
         </div>
 
-        <div className="flex items-center gap-3 rounded-xl border border-border px-3 py-3">
+        <div className="flex items-center gap-3 rounded-[12px] border border-border px-3 py-3">
           <CalendarDays size={20} className="shrink-0 text-accent" />
 
           <div className="min-w-0 flex-1">
@@ -116,7 +116,7 @@ export default function SearchBar() {
           </div>
         </div>
 
-        <div className="flex items-center gap-3 rounded-xl border border-border px-3 py-3">
+        <div className="flex items-center gap-3 rounded-[12px] border border-border px-3 py-3">
           <Users size={20} className="shrink-0 text-accent" />
 
           <div className="min-w-0 flex-1">

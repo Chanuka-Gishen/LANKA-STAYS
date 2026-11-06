@@ -16,7 +16,6 @@ export default function ExploreLoading() {
       <section className="section-padding">
         <Container>
           <div className="grid grid-cols-1 items-start gap-8 lg:grid-cols-[280px_1fr]">
-            {/* Filter skeleton */}
             <div className="card animate-pulse space-y-6 p-5">
               <div className="h-6 w-32 rounded bg-gray-200" />
 
@@ -30,7 +29,6 @@ export default function ExploreLoading() {
               <div className="h-11 w-full rounded bg-gray-200" />
             </div>
 
-            {/* Property card skeletons */}
             <div>
               <div className="mb-6 h-7 w-48 animate-pulse rounded bg-gray-200" />
 

@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { Suspense } from "react";
+import BackToTop from "@/components/layout/BackToTop";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -86,6 +87,8 @@ export default function RootLayout({
         {children}
 
         <Footer />
+
+        <BackToTop />
       </body>
     </html>
   );

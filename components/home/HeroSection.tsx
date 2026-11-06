@@ -20,25 +20,24 @@ export default function HeroSection() {
 
       <Container>
         <div className="flex min-h-[calc(100svh-5rem)] flex-col justify-center py-8 md:py-10">
-          <div className="max-w-3xl text-white">
+          <div className="w-full text-white">
             <span className="inline-flex rounded-full border border-white/30 bg-white/10 px-4 py-2 text-xs font-semibold uppercase tracking-[0.18em] text-white backdrop-blur-sm">
               Your journey begins here
             </span>
-
-            <h1 className="mt-4 font-heading text-4xl font-semibold leading-[1.1] tracking-tight sm:text-5xl md:mt-5 md:text-6xl lg:text-7xl">
-              Discover Your
+            <h1 className="mt-4 text-center font-heading text-4xl !text-white/95 font-semibold leading-[1.1] tracking-tight sm:text-5xl md:mt-5 md:text-6xl lg:text-7xl">
+              Discover Your Perfect
               <br />
-              Perfect Stay in
+              Stay in
               <br />
               <span className="text-accent-light">Sri Lanka.</span>
             </h1>
 
-            <p className="mt-4 max-w-xl text-sm leading-7 text-white/85 sm:text-base md:mt-5 md:text-lg">
+            <p className="mx-auto mt-4 max-w-xl text-center text-sm leading-7 text-white/85 sm:text-base md:mt-5 md:text-lg">
               From peaceful mountain escapes to stunning coastal retreats, find
               the perfect place to make your next journey unforgettable.
             </p>
 
-            <div className="mt-6 flex flex-wrap gap-3">
+            <div className="mt-6 flex flex-wrap justify-center gap-3">
               <a href="/explore" className="btn btn-accent">
                 Explore Stays
               </a>
