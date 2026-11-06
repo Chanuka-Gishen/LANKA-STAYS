@@ -66,23 +66,23 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/uc?export=view&id=s3mFMFNNRpLMnKYsi2zR0QjBUTctow45",
+        src: "https://drive.google.com/uc?export=view&id=1s3mFMFNNRpLMnKYsi2zR0QjBUTctow45",
         alt: "Villa overlooking Kandy",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=OPJsIJCg8YgV4XvmkrXcwNPY9hqIYiBv",
+        src: "https://drive.google.com/uc?export=view&id=1OPJsIJCg8YgV4XvmkrXcwNPY9hqIYiBv",
         alt: "Villa bedroom",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=YNdGtNus1enoRHgkA0XSpkwUDnTJVdyL",
+        src: "https://drive.google.com/uc?export=view&id=1YNdGtNus1enoRHgkA0XSpkwUDnTJVdyL",
         alt: "Villa pool",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=OPJsIJCg8YgV4XvmkrXcwNPY9hqIYiBv",
+        src: "https://drive.google.com/uc?export=view&id=1OPJsIJCg8YgV4XvmkrXcwNPY9hqIYiBv",
         alt: "Villa bedroom",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=s-pKk9G_rFKSLaftJmpMTikrsyHF1ITH",
+        src: "https://drive.google.com/uc?export=view&id=1s-pKk9G_rFKSLaftJmpMTikrsyHF1ITH",
         alt: "Villa living room",
       },
     ],
@@ -148,19 +148,19 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/uc?export=view&id=ri0gQv1AR8j6GBGwCI-NTArb3k23s8At",
+        src: "https://drive.google.com/uc?export=view&id=1ri0gQv1AR8j6GBGwCI-NTArb3k23s8At",
         alt: "Boutique hotel in Galle Fort",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=5d5vUg7-ye6JbX20RUVTDEg0CzIEYxFN",
+        src: "https://drive.google.com/uc?export=view&id=15d5vUg7-ye6JbX20RUVTDEg0CzIEYxFN",
         alt: "Boutique hotel bedroom",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=85qQ5tI9SR6O93l68ahk638QVeZ8Qq3B",
+        src: "https://drive.google.com/uc?export=view&id=185qQ5tI9SR6O93l68ahk638QVeZ8Qq3B",
         alt: "Hotel courtyard",
       },
       {
-        src: "https://drive.google.com/uc?export=view&id=83Jl4h9xx3luSHLsQ6jeiy6FlR6EDe7P",
+        src: "https://drive.google.com/uc?export=view&id=183Jl4h9xx3luSHLsQ6jeiy6FlR6EDe7P",
         alt: "Hotel dinning area",
       },
     ],
@@ -280,7 +280,7 @@ export const properties: Property[] = [
     ],
     images: [
       {
-        src: "https://drive.google.com/uc?export=view&id=fxNUGukPU0KoBZ0iJkZt_2hUVP2p6HbH",
+        src: "https://drive.google.com/uc?export=view&id=1fxNUGukPU0KoBZ0iJkZt_2hUVP2p6HbH",
         alt: "Villa surrounded by tea plantations",
       },
       {
