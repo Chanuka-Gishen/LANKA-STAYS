@@ -44,8 +44,7 @@ const contactDetails = [
 export default function ContactPage() {
   return (
     <main>
-      {/* Page introduction */}
-      <section className="bg-primary py-20 text-white md:py-24">
+      <section className="bg-primary py-16 text-white ">
         <Container>
           <div className="max-w-2xl">
             <p className="mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-accent">
@@ -64,11 +63,9 @@ export default function ContactPage() {
         </Container>
       </section>
 
-      {/* Contact content */}
       <section className="section-padding">
         <Container>
           <div className="grid gap-12 lg:grid-cols-[0.85fr_1.15fr] lg:gap-20">
-            {/* Contact information */}
             <div>
               <SectionHeading
                 eyebrow="Contact information"
@@ -111,7 +108,6 @@ export default function ContactPage() {
               </div>
             </div>
 
-            {/* Contact form */}
             <div className="rounded-2xl border border-gray-100 bg-white p-6 shadow-sm md:p-9">
               <h2 className="font-heading text-2xl font-semibold text-dark">
                 Send us a message

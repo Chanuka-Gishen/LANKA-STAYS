@@ -4,6 +4,7 @@ import { SITE_CONFIG } from "@/lib/constants";
 import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import { Suspense } from "react";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -78,7 +79,9 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${playfair.variable} ${dmSans.variable}`}>
       <body>
-        <Header />
+        <Suspense>
+          <Header />
+        </Suspense>
 
         {children}
 

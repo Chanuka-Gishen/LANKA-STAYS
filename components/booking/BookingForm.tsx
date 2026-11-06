@@ -3,15 +3,7 @@
 import { useEffect, useState } from "react";
 import { useFormik } from "formik";
 import * as Yup from "yup";
-import {
-  CalendarDays,
-  CheckCircle2,
-  Clock,
-  Mail,
-  Phone,
-  User,
-  Users,
-} from "lucide-react";
+import { CheckCircle2 } from "lucide-react";
 
 import type { Property } from "@/types/property";
 
@@ -48,7 +40,7 @@ function createValidationSchema(maxGuests: number) {
 
         const digits = value.replace(/\D/g, "");
 
-        return digits.length >= 9 && digits.length <= 15;
+        return digits.length >= 9 && digits.length <= 10;
       }),
 
     checkIn: Yup.string()
@@ -185,11 +177,6 @@ export default function BookingForm({ property }: BookingFormProps) {
           </div>
         </div>
 
-        <p className="mt-5 text-xs leading-5 text-gray-500">
-          This is a frontend demonstration only. No actual reservation has been
-          made and no property availability has been confirmed.
-        </p>
-
         <button
           type="button"
           onClick={() => {
@@ -226,11 +213,6 @@ export default function BookingForm({ property }: BookingFormProps) {
         </label>
 
         <div className="relative">
-          <User
-            size={18}
-            className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
-          />
-
           <input
             id="guestName"
             name="guestName"
@@ -256,11 +238,6 @@ export default function BookingForm({ property }: BookingFormProps) {
         </label>
 
         <div className="relative">
-          <Mail
-            size={18}
-            className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
-          />
-
           <input
             id="email"
             name="email"
@@ -286,11 +263,6 @@ export default function BookingForm({ property }: BookingFormProps) {
         </label>
 
         <div className="relative">
-          <Phone
-            size={18}
-            className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
-          />
-
           <input
             id="phone"
             name="phone"
@@ -317,11 +289,6 @@ export default function BookingForm({ property }: BookingFormProps) {
           </label>
 
           <div className="relative">
-            <CalendarDays
-              size={18}
-              className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
-            />
-
             <input
               id="checkIn"
               name="checkIn"
@@ -355,11 +322,6 @@ export default function BookingForm({ property }: BookingFormProps) {
           </label>
 
           <div className="relative">
-            <CalendarDays
-              size={18}
-              className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
-            />
-
             <input
               id="checkOut"
               name="checkOut"
@@ -385,11 +347,6 @@ export default function BookingForm({ property }: BookingFormProps) {
         </label>
 
         <div className="relative">
-          <Users
-            size={18}
-            className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
-          />
-
           <select
             id="guests"
             name="guests"
@@ -421,7 +378,6 @@ export default function BookingForm({ property }: BookingFormProps) {
 
       <div className="rounded-xl bg-[#f8f7f3] p-4">
         <div className="flex items-center gap-2 text-sm text-gray-600">
-          <Clock size={17} />
           Check-in: {property.checkInTime}
           <span className="mx-1">|</span>
           Check-out: {property.checkOutTime}
@@ -435,10 +391,6 @@ export default function BookingForm({ property }: BookingFormProps) {
       >
         Submit Booking Request
       </button>
-
-      <p className="text-center text-xs leading-5 text-gray-500">
-        Submitting this form does not confirm a reservation or require payment.
-      </p>
     </form>
   );
 }

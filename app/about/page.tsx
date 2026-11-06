@@ -137,17 +137,20 @@ export default function AboutPage() {
       <section className="section-padding">
         <Container>
           <div className="rounded-2xl bg-primary px-6 py-14 text-center md:px-12">
-            <MapPin size={30} className="mx-auto mb-5 text-accent" />
+            <MapPin size={32} className="mx-auto mb-5 text-accent" />
 
-            <h2 className="font-playfair text-3xl font-semibold text-white md:text-4xl">
-              Ready to explore Sri Lanka?
+            <h2 className="font-playfair text-3xl font-bold leading-tight text-white md:text-5xl">
+              Ready to Explore Sri Lanka?
             </h2>
 
-            <p className="mx-auto mt-4 max-w-xl leading-7 text-white/75">
+            <p className="mx-auto mt-5 max-w-xl text-base leading-8 text-white/90">
               Find your next getaway and discover a place worth remembering.
             </p>
 
-            <Link href="/explore" className="btn btn-accent mt-7">
+            <Link
+              href="/explore"
+              className="btn btn-accent mt-8 inline-flex items-center gap-2"
+            >
               Find Your Stay
               <ArrowRight size={17} />
             </Link>
