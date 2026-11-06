@@ -78,6 +78,7 @@ export default function ExploreFilters({
       maxPrice: initialFilters.maxPrice,
     },
     validationSchema,
+    enableReinitialize: true,
     onSubmit: (values) => {
       const params = new URLSearchParams();
 

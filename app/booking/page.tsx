@@ -48,7 +48,7 @@ export default async function BookingPage({ searchParams }: BookingPageProps) {
       <section className="section-padding">
         <Container>
           <Link
-            href={`/stays/${property.slug}`}
+            href={`/explore/${property.slug}`}
             className="mb-8 inline-flex items-center gap-2 text-sm font-medium text-gray-600 transition hover:text-primary"
           >
             <ArrowLeft size={17} />
@@ -113,7 +113,7 @@ export default async function BookingPage({ searchParams }: BookingPageProps) {
                 </div>
 
                 <Link
-                  href={`/stays/${property.slug}`}
+                  href={`/explore/${property.slug}`}
                   className="mt-5 inline-flex items-center text-sm font-medium text-primary hover:text-accent"
                 >
                   View property details

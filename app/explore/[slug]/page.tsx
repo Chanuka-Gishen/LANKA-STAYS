@@ -20,7 +20,7 @@ export async function generateMetadata({
     return generateSEO({
       title: "Property Not Found",
       description: "The requested accommodation could not be found.",
-      path: `/stays/${slug}`,
+      path: `/explore/${slug}`,
       noIndex: true,
     });
   }
@@ -28,7 +28,7 @@ export async function generateMetadata({
   return generateSEO({
     title: `${property.name} - ${property.location}`,
     description: property.description.slice(0, 155),
-    path: `/stays/${property.slug}`,
+    path: `/explore/${property.slug}`,
     image: property.images[0]?.src || undefined,
   });
 }

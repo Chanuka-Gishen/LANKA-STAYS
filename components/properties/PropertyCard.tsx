@@ -12,7 +12,7 @@ export default function PropertyCard({ property }: PropertyCardProps) {
   return (
     <article className="card card-hover group">
       <Link
-        href={`/stays/${property.slug}`}
+        href={`/explore/${property.slug}`}
         className="property-image relative block aspect-[4/3]"
         aria-label={`View ${property.name}`}
       >
@@ -41,7 +41,7 @@ export default function PropertyCard({ property }: PropertyCardProps) {
           <div className="min-w-0">
             <Badge>{property.type}</Badge>
 
-            <Link href={`/stays/${property.slug}`}>
+            <Link href={`/explore/${property.slug}`}>
               <h3 className="mt-3 font-heading text-xl font-semibold text-primary transition-colors group-hover:text-accent">
                 {property.name}
               </h3>
@@ -73,7 +73,7 @@ export default function PropertyCard({ property }: PropertyCardProps) {
         </div>
 
         <Link
-          href={`/stays/${property.slug}`}
+          href={`/explore/${property.slug}`}
           className="mt-5 flex items-center justify-center gap-2 rounded-lg border border-border py-3 text-sm font-semibold text-primary transition-colors hover:border-primary hover:bg-primary hover:text-white"
         >
           View Details
